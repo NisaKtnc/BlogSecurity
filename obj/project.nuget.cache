@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qXjAA4Xz8zotLvefDL4FQ30T684iZTdJLVDaylW/R3uqGUFxW1KSApvN3rJ47C16nW6fwcma1+wSVaDZb7tDdA==",
+  "dgSpecHash": "V/zD+5o8mc9n/dafQyFDxNlTCzTqdxG9YMcu5fKCjvdjzWpmZTzYigemflSv3fSIatPrAOCmngER0iP5q1wetQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nisa_\\OneDrive\\Masaüstü\\BlogSecurity\\BlogSecurity\\BlogSecurity\\BlogSecurity.csproj",
+  "projectFilePath": "C:\\Users\\Nisa_\\OneDrive\\Masaüstü\\BlogSecurity\\BlogSecurity\\BlogSecurity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nisa_\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nisa_\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

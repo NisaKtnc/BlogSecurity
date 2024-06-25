@@ -2976,11 +2976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nisa_\\OneDrive\\Masaüstü\\BlogSecurity\\BlogSecurity\\BlogSecurity\\BlogSecurity.csproj",
+      "projectUniqueName": "C:\\Users\\Nisa_\\OneDrive\\Masaüstü\\BlogSecurity\\BlogSecurity\\BlogSecurity.csproj",
       "projectName": "BlogSecurity",
-      "projectPath": "C:\\Users\\Nisa_\\OneDrive\\Masaüstü\\BlogSecurity\\BlogSecurity\\BlogSecurity\\BlogSecurity.csproj",
+      "projectPath": "C:\\Users\\Nisa_\\OneDrive\\Masaüstü\\BlogSecurity\\BlogSecurity\\BlogSecurity.csproj",
       "packagesPath": "C:\\Users\\Nisa_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nisa_\\OneDrive\\Masaüstü\\BlogSecurity\\BlogSecurity\\BlogSecurity\\obj\\",
+      "outputPath": "C:\\Users\\Nisa_\\OneDrive\\Masaüstü\\BlogSecurity\\BlogSecurity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
